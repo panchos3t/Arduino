@@ -1,0 +1,29 @@
+2015-02-14 08:26:08: -- Analysis Started by User
+2015-02-14 08:26:08: L: State file does not exist: C:/Work/_HPES/Alexandre/Arduino/Projetos/_gsdata_/_file_state_v4._gs
+2015-02-14 08:26:08: R: State file does not exist: C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/_gsdata_/_file_state_v4._gs
+2015-02-14 08:26:08: Changes: 18, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 18
+2015-02-14 08:26:08: Left to Right: Copy File: 18 
+2015-02-14 08:26:08: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2015-02-14 08:26:08: 
+2015-02-14 08:26:11: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2015-02-14 08:26:11: == Sync Started by User
+2015-02-14 08:26:11: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Display'
+2015-02-14 08:26:11: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Display/Display-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Display/Display-1.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Display/Display-1.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Display/Display-1.ino'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-1.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-2.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-2.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-3.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-3.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-3.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-3.ino'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-4.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-4.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-5.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-5.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-5.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-5.ino'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-6.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-6.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-6.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-6.ino'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-7.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-7.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-7.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-7.ino'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-8.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-8.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-9.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-9.fzz'
+2015-02-14 08:26:11: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-9.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-9.ino'
+2015-02-14 08:26:11: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 18, Errors: 0
+2015-02-14 08:26:12: 
