@@ -1,0 +1,33 @@
+2015-02-16 10:25:09: -- Analysis Started by User
+2015-02-16 10:25:09: Changes: 25, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 40
+2015-02-16 10:25:09: Left to Right: Copy File: 25 
+2015-02-16 10:25:09: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2015-02-16 10:25:09: 
+2015-02-16 10:25:15: == Sync Started by User
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Luminosidade'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Imagem'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Link'
+2015-02-16 10:25:15: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Ultrasom'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-1/Imagem 3.png' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/Imagem 3.png'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-1/LEDshield.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/LEDshield.ino'
+2015-02-16 10:25:15: Copy Over 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-1.fzz'
+2015-02-16 10:25:15: Copy Over 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-2.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-2.fzz'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-2.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-2.ino'
+2015-02-16 10:25:15: Copy Over 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-6.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-6.fzz'
+2015-02-16 10:25:15: Copy Over 'C:/Work/_HPES/Alexandre/Arduino/Projetos/LED/Led-7.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/LED/Led-7.fzz'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Luminosidade/Luminosidade-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Luminosidade/Luminosidade-1.fzz'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Luminosidade/Luminosidade-1.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Luminosidade/Luminosidade-1.ino'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Imagem/Imagem 1.png' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Imagem/Imagem 1.png'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Imagem/Imagem 2.png' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Imagem/Imagem 2.png'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Link/Curso Arduino- Módulo Eletrônica Básica - Potenciômetro - YouTube.url' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Link/Curso Arduino- Módulo Eletrônica Básica - Potenciômetro - YouTube.url'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Potenciometro-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Potenciometro-1.fzz'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Potenciometro-1.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Potenciometro-1.ino'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Potenciometro-2.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Potenciometro-2.fzz'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Potenciometro/Potenciometro-2.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Potenciometro/Potenciometro-2.ino'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Ultrasom/Ultrasom-1.jpg' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Ultrasom/Ultrasom-1.jpg'
+2015-02-16 10:25:15: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Ultrasom/Ultrasom-1.txt' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Ultrasom/Ultrasom-1.txt'
+2015-02-16 10:25:15: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 25, Errors: 0
+2015-02-16 10:25:15: 

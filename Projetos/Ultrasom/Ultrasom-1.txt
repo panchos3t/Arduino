@@ -1,0 +1,34 @@
+
+#define trig 7
+#define echo 6
+ 
+void setup() {
+  Serial.begin (9600);
+  pinMode(trig, OUTPUT);
+  pinMode(echo, INPUT);
+}
+ 
+void loop() {
+  long duracao, distancia;
+  digitalWrite(trig, LOW);  //pino trig é setado como LOW
+  delayMicroseconds(2); // 2 microssegundos de delay
+ 
+  digitalWrite(trig, HIGH); //pino trig setado como HIGH
+  delayMicroseconds(10);  //10 microssegundos de delay
+  digitalWrite(trig, LOW); //pino trig setado como LOW novamente
+  duracao = pulseIn(echo, HIGH); 
+  //Esse tempo retornado pela função pulseIn é o tempo entre a chamada e o pino entrar em HIGH
+  //O valor retornado vem dobrado pois é o valor de ida e volta
+  distancia = (duracao/2) / 29.1;
+  if (distancia >= 200 || distancia <= 0){
+    Serial.println("Nenhum objeto a alcance!");
+  }
+  else {
+    Serial.print(distancia);
+    Serial.println(" cm");
+  }
+  delay(500);
+}
+
+
+
