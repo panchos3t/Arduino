@@ -1,0 +1,13 @@
+2015-02-16 12:01:00: -- Analysis Started by User
+2015-02-16 12:01:00: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 45
+2015-02-16 12:01:00: Left to Right: Copy File: 5 
+2015-02-16 12:01:00: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2015-02-16 12:01:00: 
+2015-02-16 12:01:09: == Sync Started by User
+2015-02-16 12:01:09: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Buzzer'
+2015-02-16 12:01:09: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Buzzer/Link'
+2015-02-16 12:01:09: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Buzzer/Buzzer-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Buzzer/Buzzer-1.fzz'
+2015-02-16 12:01:09: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Buzzer/Buzzer-1.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Buzzer/Buzzer-1.ino'
+2015-02-16 12:01:09: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Buzzer/Link/Projeto Arduino, como emitir sons com o buzzer.url' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Buzzer/Link/Projeto Arduino, como emitir sons com o buzzer.url'
+2015-02-16 12:01:09: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 5, Errors: 0
+2015-02-16 12:01:09: 
