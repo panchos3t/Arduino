@@ -1,0 +1,16 @@
+2015-02-18 21:18:03: -- Analysis Started by User
+2015-02-18 21:18:03: Changes: 8, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 51
+2015-02-18 21:18:03: Left to Right: Copy File: 6 Delete File: 2 
+2015-02-18 21:18:03: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2015-02-18 21:18:03: 
+2015-02-18 21:18:07: == Sync Started by User
+2015-02-18 21:18:07: Delete File 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/Imagem 3.png'
+2015-02-18 21:18:07: Delete File 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/LEDshield.ino'
+2015-02-18 21:18:07: Create Folder 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-2'
+2015-02-18 21:18:07: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-1/Botao-1.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/Botao-1.fzz'
+2015-02-18 21:18:07: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-1/Botao-1.ino' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/Botao-1.ino'
+2015-02-18 21:18:07: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-1/Projeto-2.pdf' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-1/Projeto-2.pdf'
+2015-02-18 21:18:07: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-2/Botao-2.fzz' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-2/Botao-2.fzz'
+2015-02-18 21:18:07: Copy New 'C:/Work/_HPES/Alexandre/Arduino/Projetos/Botao/Botao-2/Projeto Arduino. Como controlar as cores de um led RGB com botões..url' -> 'C:/Users/soaresal/Documents/GitHub/Arduino/Projetos/Botao/Botao-2/Projeto Arduino. Como controlar as cores de um led RGB com botões..url'
+2015-02-18 21:18:07: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 8, Errors: 0
+2015-02-18 21:18:07: 
